@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola mundo 💻🌍
 
-<!--
-**mdagraza/mdagraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado de la tecnología en pleno proceso de formación.
 
-Here are some ideas to get you started:
+### ⚡ Un poco sobre mí:
+* Aprendiendo a base de cometer errores y solucionar bugs.
+* Siempre con curiosidad por descubrir algo nuevo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías utilizadas
+* 🐍 Python
+* ☕ Java
+* ⚙️ C#
+* 🌐 HTML, CSS y SCSS
+* 🐳 Docker
+* 🔧 Git y GitHub
+* 🎯 Django
+* ⚡ FastAPI
+
+### 📈 Mi camino de aprendizaje:
+- [x] Entender el flujo de trabajo con Git y GitHub.
+- [x] Publicar proyectos.
+- [ ] Profundizar en `Python`.
+- [x] Trabajar con Docker.
+- [ ] Desplegar aplicaciones con Docker.
+- [x] Construir mi primer sitio web completo desde cero.
+- [ ] Aprender PHP junto a Symfony.
+- [ ] Profundizar en principios SOLID y patrones de diseño.
+
+¡Gracias por pasarte por aquí! Si tienes sugerencias para mejorar mi código en los repositorios, no dudes en decírmelo.
