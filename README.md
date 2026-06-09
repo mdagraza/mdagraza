@@ -2,7 +2,7 @@
 
 Soy un apasionado de la tecnología en pleno proceso de formación.
 
-### ⚡ Un poco sobre mí:
+### Un poco sobre mí:
 * Aprendiendo a base de cometer errores y solucionar bugs.
 * Siempre con curiosidad por descubrir algo nuevo.
 
@@ -21,7 +21,7 @@ Soy un apasionado de la tecnología en pleno proceso de formación.
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
-### 📈 Mi camino de aprendizaje:
+### Mi camino de aprendizaje:
 - [x] Entender el flujo de trabajo con Git y GitHub.
 - [x] Publicar proyectos.
 - [ ] Profundizar en `Python`.
